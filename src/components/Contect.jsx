@@ -28,7 +28,7 @@ function Contect() {
           </div>
           <div className="border-zinc-950 border-t-2 border-l-2 h-[80vh] w-full flex justify-evenly items-center">
             <form
-              onSubmit={""}
+              
               className="flex justify-evenly items-center flex-col h-full w-[66%]"
             >
               <div className="flex flex-col justify-evenly items-center bg-transparent w-[70%] h-3/4">
