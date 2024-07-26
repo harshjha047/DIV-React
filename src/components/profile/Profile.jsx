@@ -2,7 +2,7 @@ import React from "react";
 import ProfileCard from "./ProfileCard";
 import Logout from "../auth/Logout";
 import { useEffect, useState } from "react";
-import axios from "axios";
+// import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
 const Profile = () => {
